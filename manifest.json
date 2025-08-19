@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "mods": [
+    {
+      "name": "Mod A",
+      "url": "https://raw.githubusercontent.com/yourrepo/releases/mod_A.zip"
+    },
+    {
+      "name": "Mod B",
+      "url": "https://raw.githubusercontent.com/yourrepo/releases/mod_B.zip"
+    },
+    {
+      "name": "Mod C",
+      "url": "https://raw.githubusercontent.com/yourrepo/releases/mod_C.zip"
+    }
+  ]
+}
